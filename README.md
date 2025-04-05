@@ -15,6 +15,8 @@
 - [youtube video #1](https://youtu.be/-nHFKv8mkeg)
 - [youtube video #2 - to do]()
 - [youtube video #3 - to do]()
+- Dice symbols - [download](https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/raw/main/datasheet/Flipo-3x3-Flip-Disc-Display-Dice-Symbols.pdf)
+- Digits symbols - [download](https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/raw/main/datasheet/Flipo-3x3-Flip-Disc-Display-Digits-Symbols.pdf)
 
 <img src="https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/datasheet/Flipo-3x3-Flip-Disc-Display-Dice-Symbols.png">
 <img src="https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/datasheet/Flipo-3x3-Flip-Disc-Display-Digits-Symbols.png">
