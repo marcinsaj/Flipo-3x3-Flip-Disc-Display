@@ -8,6 +8,6 @@
 - [youtube video #2 - to do]()
 - [youtube video #3 - to do]()
 
-<img src="https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/extras/3x3-DICE.png">
-<img src="https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/extras/3x3-FONT.png">
-<img src="https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/extras/3x3-SYMBOL.png">
+<img src="https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/datasheet/Flipo-3x3-Flip-Disc-Display-Dice-Symbols.png">
+<img src="https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/datasheet/Flipo-3x3-Flip-Disc-Display-Digits-Symbols.png">
+
