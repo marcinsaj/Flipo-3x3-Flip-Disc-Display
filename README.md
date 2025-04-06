@@ -10,8 +10,8 @@
 - [Flip-disc specification](https://github.com/marcinsaj/Flipo-Flip-disc-Display-Specification/raw/main/datasheet/Flipo-Flip-Disc-Specification.pdf)
 - [Display pinout](https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/raw/main/datasheet/Flip-disc-3x3-Display-Pinout.pdf)
 - [Display dimensions](https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/raw/main/datasheet/Flip-disc-3x3-Display-Dimensions.pdf)
-- Connection diagram with the Pulse Shaper Power Supply Module – #1 Display - to do
-- Connection diagram with the Pulse Shaper Power Supply Module – #2 Displays - to do
+- Connection diagram with the Pulse Shaper Power Supply Module – [#1 Display](https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/raw/main/datasheet/Flip-disc-3x3-Display-Arduino-Example-Connection-with-Pulse-Shaper-Schematic-01.pdf)
+- Connection diagram with the Pulse Shaper Power Supply Module – [#2 Displays](https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/raw/main/datasheet/Flip-disc-3x3-Display-Arduino-Example-Connection-with-Pulse-Shaper-Schematic-02.pdf)
 - [youtube video #1](https://youtu.be/-nHFKv8mkeg)
 - [youtube video #2 - to do]() - to do
 - [youtube video #3 - to do]() - to do
