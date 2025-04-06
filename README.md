@@ -5,7 +5,7 @@
 3x3 flip-disc display. Control via dedicated library for Arduino.
 
 - Project website - to do
-- [Arduino code example](https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/tree/main/examples)
+- [Arduino code example](https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/tree/main/examples) - to do
 - [3x3 flip-disc display schematic](https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/raw/main/datasheet/Flip-disc-3x3-Display-Schematic.pdf)
 - [Flip-disc specification](https://github.com/marcinsaj/Flipo-Flip-disc-Display-Specification/raw/main/datasheet/Flipo-Flip-Disc-Specification.pdf)
 - [Display pinout](https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/raw/main/datasheet/Flip-disc-3x3-Display-Pinout.pdf)
