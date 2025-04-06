@@ -4,17 +4,17 @@
 
 3x3 flip-disc display. Control via dedicated library for Arduino.
 
-- Project website
+- Project website - to do
 - [Arduino code example](https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/tree/main/examples)
-- 3x3 flip-disc display schematic
+- [3x3 flip-disc display schematic](https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/raw/main/datasheet/Flip-disc-3x3-Display-Schematic.pdf)
 - [Flip-disc specification](https://github.com/marcinsaj/Flipo-Flip-disc-Display-Specification/raw/main/datasheet/Flipo-Flip-Disc-Specification.pdf)
 - [Display pinout](https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/raw/main/datasheet/Flip-disc-3x3-Display-Pinout.pdf)
 - [Display dimensions](https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/raw/main/datasheet/Flip-disc-3x3-Display-Dimensions.pdf)
-- Connection diagram with the Pulse Shaper Power Supply Module – #1 Display
-- Connection diagram with the Pulse Shaper Power Supply Module – #2 Displays
+- Connection diagram with the Pulse Shaper Power Supply Module – #1 Display - to do
+- Connection diagram with the Pulse Shaper Power Supply Module – #2 Displays - to do
 - [youtube video #1](https://youtu.be/-nHFKv8mkeg)
-- [youtube video #2 - to do]()
-- [youtube video #3 - to do]()
+- [youtube video #2 - to do]() - to do
+- [youtube video #3 - to do]() - to do
 - Dice symbols - [download](https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/raw/main/datasheet/Flipo-3x3-Flip-Disc-Display-Dice-Symbols.pdf)
 - Digits symbols - [download](https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/raw/main/datasheet/Flipo-3x3-Flip-Disc-Display-Digits-Symbols.pdf)
 
@@ -22,4 +22,5 @@
 <img src="https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/datasheet/Flipo-3x3-Flip-Disc-Display-Digits-Symbols.png">
 <img src="https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/datasheet/Flip-disc-3x3-Display-Dimensions.png">
 <img src="https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/datasheet/Flip-disc-3x3-Display-Pinout.png">
+<img src="https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/datasheet/Flip-disc-3x3-Display-Schematic.png">
 
