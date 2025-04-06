@@ -8,7 +8,7 @@
 - [Arduino code example](https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/tree/main/examples)
 - 3x3 flip-disc display schematic
 - [Flip-disc specification](https://github.com/marcinsaj/Flipo-Flip-disc-Display-Specification/raw/main/datasheet/Flipo-Flip-Disc-Specification.pdf)
-- Display pinout
+- [Display pinout](https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/raw/main/datasheet/Flip-disc-3x3-Display-Pinout.pdf)
 - [Display dimensions](https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/raw/main/datasheet/Flip-disc-3x3-Display-Dimensions.pdf)
 - Connection diagram with the Pulse Shaper Power Supply Module – #1 Display
 - Connection diagram with the Pulse Shaper Power Supply Module – #2 Displays
@@ -21,4 +21,5 @@
 <img src="https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/datasheet/Flipo-3x3-Flip-Disc-Display-Dice-Symbols.png">
 <img src="https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/datasheet/Flipo-3x3-Flip-Disc-Display-Digits-Symbols.png">
 <img src="https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/datasheet/Flip-disc-3x3-Display-Dimensions.png">
+<img src="https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/datasheet/Flip-disc-3x3-Display-Pinout.png">
 
