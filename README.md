@@ -18,10 +18,10 @@
 - Dice symbols - [download](https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/raw/main/datasheet/Flipo-3x3-Flip-Disc-Display-Dice-Symbols.pdf)
 - Digits symbols - [download](https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/raw/main/datasheet/Flipo-3x3-Flip-Disc-Display-Digits-Symbols.pdf)
 
-<img src="https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/extras/Flipo-3x3-Flip-Disc-Display-Digits-2.png">
-<img src="https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/extras/3x3-Flip-disc-Display-Counting-0-9.webp">
-<img src="https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/datasheet/Flipo-3x3-Flip-Disc-Display-Dice-Symbols.png">
-<img src="https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/datasheet/Flip-disc-3x3-Display-Dimensions.png">
-<img src="https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/datasheet/Flip-disc-3x3-Display-Pinout.png">
-<img src="https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/datasheet/Flip-disc-3x3-Display-Schematic.png">
+![3x3 Module - Digits Symbols](https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/extras/Flipo-3x3-Flip-Disc-Display-Digits-2.png)
+![3x3 Module - Counting](https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/extras/3x3-Flip-disc-Display-Counting-0-9.webp)
+![3x3 Module - Dice Symbols](https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/datasheet/Flipo-3x3-Flip-Disc-Display-Dice-Symbols.png)
+![3x3 flip-disc display - dimensions](https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/datasheet/Flip-disc-3x3-Display-Dimensions.png)
+![3x3 flip-disc display - pinout](https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/datasheet/Flip-disc-3x3-Display-Pinout.png)
+![3x3 flip-disc display - schematic](https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/datasheet/Flip-disc-3x3-Display-Schematic.png)
 
