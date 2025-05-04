@@ -18,8 +18,8 @@
 - Dice symbols - [download](https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/raw/main/datasheet/Flipo-3x3-Flip-Disc-Display-Dice-Symbols.pdf)
 - Digits symbols - [download](https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/raw/main/datasheet/Flipo-3x3-Flip-Disc-Display-Digits-Symbols.pdf)
 
+<img src="https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/extras/Flipo-3x3-Flip-Disc-Display-Digits-2.png">
 <img src="https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/datasheet/Flipo-3x3-Flip-Disc-Display-Dice-Symbols.png">
-<img src="https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/datasheet/Flipo-3x3-Flip-Disc-Display-Digits-Symbols.png">
 <img src="https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/datasheet/Flip-disc-3x3-Display-Dimensions.png">
 <img src="https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/datasheet/Flip-disc-3x3-Display-Pinout.png">
 <img src="https://github.com/marcinsaj/Flipo-3x3-Flip-Disc-Display/blob/main/datasheet/Flip-disc-3x3-Display-Schematic.png">
